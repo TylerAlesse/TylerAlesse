@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello and welcome!
 
-<!--
-**TylerAlesse/TylerAlesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tyler Alesse, I am a student at the University of Illinois in Chicago, studying Computer Science in the College of Engineering.
+I've spent a little time working with a lot of technologies and languages, but ultimately my passion is problem solving.
 
-Here are some ideas to get you started:
+## My focus
+While I am in school, I don't have as much time to work on large side projects, but I do have small things here and there that I had fun with!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I’m currently learning:
+Java, x86-64 Assembly, and C
+
+## How to reach me:
+You can contact me at TylerAlesse@gmail.com if you want to chat about... well about anything!
+
+## Fun fact:
+I hate fun facts.
