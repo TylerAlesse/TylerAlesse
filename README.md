@@ -6,8 +6,16 @@ I've spent a little time working with a lot of technologies and languages, but u
 ### My focus
 While I am in school, I don't have as much time to work on large side projects, but I do have small things here and there that I had fun with!
 
-### I’m currently learning:
-Java, x86-64 Assembly, and C
+### Solid Knowledge
+- HTML, CSS, JS
+- C, C++
+- MySQL
+- Excel and VBA for Excel, Google Sheets and Google Apps Scripts
+
+### Early Knowledge
+- React.js, Astro
+- Firebase, Supabase
+- Python, Java, C#, .NET
 
 ### How to reach me:
 You can contact me at TylerAlesse@gmail.com if you want to chat about... well about anything!
