@@ -11,14 +11,12 @@ While I am in school, I don't have as much time to work on large side projects, 
 - C, C++
 - MySQL
 - Excel and VBA for Excel, Google Sheets and Google Apps Scripts
+- Python
 
 ### Early Knowledge
 - React.js, Astro
 - Firebase, Supabase
-- Python, Java, C#, .NET
+- Java, C#, .NET
 
 ### How to reach me:
 You can contact me at TylerAlesse@gmail.com if you want to chat about... well about anything!
-
-### Fun fact:
-I hate fun facts.
